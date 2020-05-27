@@ -1,0 +1,2 @@
+# fashion-data-scrape
+Under the assumption that social distancing is not affecting why people are reselling their clothes, then I should be able to scrape resale sites such as Poshmark for what is falling out of trend. I should also be able to scrape official retail sites such as Ralph Lauren to see what is trending. Another assumption is that if Ralph Lauren and other sites truly don't manipulate which pieces are "trending" or "best selling", then we can sort like so to understand what is flying off the shelves.
