@@ -1,6 +1,6 @@
 # An Analysis of Male Fashion Trends
 
-![image]()
+![image](/images/coverimage.jpg)
 
 ## Problem Statement
 After spending three months self-isolating myself and living nearly every day in sweats, it is difficult to understand what the direction that fashion is going. I have not dressed up frequently enough to say that my tastes have changed and I have not seen others in public to take new inspiration from. So which trends have died or are dying and what are the new trends that people like? Since it feels weird for me to go to Twitter and start a thread for people to post pictures or videos of them dressing up, I'll use my data skills to solve this problem.
